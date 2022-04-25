@@ -1,4 +1,4 @@
-## Sorting Algorithm Visualiser 
+## Sorting and Path Finding Visualiser 
 
 ### Dependencies
 - Install pygame module
